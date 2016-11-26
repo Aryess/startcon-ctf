@@ -11,3 +11,6 @@ password = password
 
 POINTS:
 111
+
+compiled with:
+gcc -ggdb -m32 -fno-stack-protector -z execstack
