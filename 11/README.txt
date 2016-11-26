@@ -14,3 +14,7 @@ IP = 13.54.114.81
 username: test
 password = password
 
+
+
+COMPILED WITH:
+gcc -ggdb -m32 -fno-stack-protector -z execstack
