@@ -1,0 +1,1 @@
+This binary is trying to print the flag, but it's taking a while. Is there a faster way?
