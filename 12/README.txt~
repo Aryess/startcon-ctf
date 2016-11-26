@@ -4,7 +4,7 @@ DESC:
 What's the worst that can happen with a program that just echoes the input?
 
 
-SSH into this server to try to break the binary:
+SSH into to test the challenge:
 IP = 13.54.79.17 
 username: test
 password = password
